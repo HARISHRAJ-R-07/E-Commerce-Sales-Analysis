@@ -1,0 +1,251 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Unit_Price,Discount,Region,Payment_Method,Revenue
+ORD0001,2025-01-21,CUST083,Face Wash,Beauty,3,399.0,0.15,East,Debit Card,1017.4499999999999
+ORD0002,2025-09-15,CUST088,Statistics Book,Books,3,699.0,0.0,West,Credit Card,2097.0
+ORD0003,2025-01-22,CUST089,Face Wash,Beauty,1,399.0,0.05,North,Debit Card,379.04999999999995
+ORD0004,2025-07-07,CUST080,Backpack,Fashion,2,1299.0,0.0,East,Net Banking,2598.0
+ORD0005,2025-11-03,CUST007,Perfume,Beauty,1,1599.0,0.0,Central,UPI,1599.0
+ORD0006,2025-08-30,CUST009,Storage Box,Home,1,899.0,0.2,South,Cash on Delivery,719.2
+ORD0007,2025-09-21,CUST047,Storage Box,Home,4,899.0,0.05,East,UPI,3416.2
+ORD0008,2025-02-23,CUST004,Shampoo,Beauty,4,549.0,0.05,Central,Credit Card,2086.2
+ORD0009,2025-09-27,CUST095,Storage Box,Home,2,899.0,0.05,West,UPI,1708.1
+ORD0010,2025-02-22,CUST024,Statistics Book,Books,5,699.0,0.05,South,UPI,3320.25
+ORD0011,2025-06-06,CUST015,Perfume,Beauty,4,1599.0,0.05,Central,UPI,6076.2
+ORD0012,2025-05-16,CUST088,Bluetooth Speaker,Electronics,1,2499.0,0.15,East,Debit Card,2124.15
+ORD0013,2025-09-18,CUST041,USB-C Hub,Electronics,3,1799.0,0.15,West,UPI,4587.45
+ORD0014,2025-03-03,CUST088,Shampoo,Beauty,1,549.0,0.0,Central,Debit Card,549.0
+ORD0015,2025-08-15,CUST047,Perfume,Beauty,3,1599.0,0.1,East,UPI,4317.3
+ORD0016,2025-01-15,CUST090,Data Science Guide,Books,3,799.0,0.1,South,Net Banking,2157.3
+ORD0017,2025-04-06,CUST004,Machine Learning,Books,1,999.0,0.05,Central,Cash on Delivery,949.05
+ORD0018,2025-11-23,CUST059,T-Shirt,Fashion,4,599.0,0.2,East,Net Banking,1916.8000000000002
+ORD0019,2025-05-14,CUST028,Desk Lamp,Home,5,1499.0,0.05,West,Net Banking,7120.25
+ORD0020,2025-12-14,CUST089,Perfume,Beauty,3,1599.0,0.05,North,UPI,4557.15
+ORD0021,2025-08-21,CUST003,Bluetooth Speaker,Electronics,1,2499.0,0.15,East,UPI,2124.15
+ORD0022,2025-06-01,CUST079,Python Basics,Books,3,499.0,0.05,East,UPI,1422.1499999999999
+ORD0023,2025-09-25,CUST039,Face Wash,Beauty,1,399.0,0.05,South,Debit Card,379.04999999999995
+ORD0024,2025-07-06,CUST002,Wireless Mouse,Electronics,1,799.0,0.2,South,Net Banking,639.2
+ORD0025,2025-05-06,CUST002,Statistics Book,Books,1,699.0,0.1,Central,Net Banking,629.1
+ORD0026,2025-07-03,CUST017,Storage Box,Home,4,899.0,0.0,Central,Net Banking,3596.0
+ORD0027,2025-05-24,CUST097,Desk Lamp,Home,3,1499.0,0.15,North,Net Banking,3822.45
+ORD0028,2025-09-09,CUST059,Jeans,Fashion,5,1499.0,0.15,West,Debit Card,6370.75
+ORD0029,2025-07-18,CUST052,Coffee Maker,Home,3,3499.0,0.05,North,UPI,9972.15
+ORD0030,2025-05-31,CUST031,Storage Box,Home,1,899.0,0.1,South,Debit Card,809.1
+ORD0031,2025-03-01,CUST002,Perfume,Beauty,2,1599.0,0.2,North,Net Banking,2558.4
+ORD0032,2025-08-21,CUST099,Python Basics,Books,3,499.0,0.0,East,Debit Card,1497.0
+ORD0033,2025-03-16,CUST072,Perfume,Beauty,1,1599.0,0.1,West,Net Banking,1439.1000000000001
+ORD0034,2025-12-15,CUST018,Sneakers,Fashion,1,2499.0,0.1,South,Credit Card,2249.1
+ORD0035,2025-06-10,CUST068,Sneakers,Fashion,5,2499.0,0.0,North,Cash on Delivery,12495.0
+ORD0036,2025-02-02,CUST048,Perfume,Beauty,3,1599.0,0.1,West,Debit Card,4317.3
+ORD0037,2025-09-21,CUST027,Jeans,Fashion,5,1499.0,0.05,East,Credit Card,7120.25
+ORD0038,2025-11-13,CUST048,Data Science Guide,Books,1,799.0,0.1,East,Net Banking,719.1
+ORD0039,2025-06-21,CUST092,Sneakers,Fashion,1,2499.0,0.0,Central,Cash on Delivery,2499.0
+ORD0040,2025-12-15,CUST046,Sneakers,Fashion,1,2499.0,0.2,Central,Debit Card,1999.2
+ORD0041,2025-06-10,CUST067,Face Wash,Beauty,4,399.0,0.05,South,UPI,1516.1999999999998
+ORD0042,2025-06-23,CUST024,Coffee Maker,Home,2,3499.0,0.2,South,Credit Card,5598.400000000001
+ORD0043,2025-04-14,CUST033,Jeans,Fashion,2,1499.0,0.05,North,Debit Card,2848.1
+ORD0044,2025-01-13,CUST060,Data Science Guide,Books,2,799.0,0.15,South,UPI,1358.3
+ORD0045,2025-05-22,CUST076,Face Wash,Beauty,4,399.0,0.1,East,Net Banking,1436.4
+ORD0046,2025-03-04,CUST062,Desk Lamp,Home,3,1499.0,0.05,Central,Credit Card,4272.15
+ORD0047,2025-11-22,CUST015,Desk Lamp,Home,1,1499.0,0.0,East,Net Banking,1499.0
+ORD0048,2025-04-18,CUST005,Python Basics,Books,5,499.0,0.05,West,Cash on Delivery,2370.25
+ORD0049,2025-11-04,CUST016,Shampoo,Beauty,3,549.0,0.1,Central,Credit Card,1482.3
+ORD0050,2025-11-15,CUST019,Shampoo,Beauty,3,549.0,0.15,West,Credit Card,1399.95
+ORD0051,2025-10-06,CUST009,Water Bottle,Home,2,699.0,0.2,West,Cash on Delivery,1118.4
+ORD0052,2025-10-17,CUST096,Keyboard,Electronics,2,1299.0,0.0,North,Cash on Delivery,2598.0
+ORD0053,2025-03-10,CUST022,Python Basics,Books,5,499.0,0.1,Central,Debit Card,2245.5
+ORD0054,2025-07-04,CUST029,Shampoo,Beauty,3,549.0,0.15,West,Cash on Delivery,1399.95
+ORD0055,2025-08-06,CUST090,Keyboard,Electronics,4,1299.0,0.0,Central,Net Banking,5196.0
+ORD0056,2025-01-10,CUST069,Keyboard,Electronics,5,1299.0,0.05,West,Credit Card,6170.25
+ORD0057,2025-04-06,CUST001,Moisturizer,Beauty,2,699.0,0.1,Central,Cash on Delivery,1258.2
+ORD0058,2025-06-09,CUST091,Perfume,Beauty,2,1599.0,0.0,West,Net Banking,3198.0
+ORD0059,2025-06-28,CUST043,Coffee Maker,Home,4,3499.0,0.0,Central,Net Banking,13996.0
+ORD0060,2025-02-12,CUST044,T-Shirt,Fashion,1,599.0,0.1,Central,Cash on Delivery,539.1
+ORD0061,2025-08-30,CUST035,Moisturizer,Beauty,2,699.0,0.0,North,Credit Card,1398.0
+ORD0062,2025-04-25,CUST007,Data Science Guide,Books,2,799.0,0.0,West,Credit Card,1598.0
+ORD0063,2025-08-05,CUST021,Data Science Guide,Books,5,799.0,0.2,Central,UPI,3196.0
+ORD0064,2025-07-11,CUST099,Shampoo,Beauty,5,549.0,0.15,North,Debit Card,2333.25
+ORD0065,2025-06-01,CUST023,Shampoo,Beauty,1,549.0,0.15,Central,Net Banking,466.65
+ORD0066,2025-12-21,CUST030,Bluetooth Speaker,Electronics,5,2499.0,0.1,North,UPI,11245.5
+ORD0067,2025-07-06,CUST019,Perfume,Beauty,1,1599.0,0.05,North,Net Banking,1519.05
+ORD0068,2025-09-22,CUST071,Face Wash,Beauty,1,399.0,0.15,West,Net Banking,339.15
+ORD0069,2025-01-25,CUST052,Jeans,Fashion,5,1499.0,0.0,East,Cash on Delivery,7495.0
+ORD0070,2025-06-30,CUST042,Face Wash,Beauty,1,399.0,0.0,South,Credit Card,399.0
+ORD0071,2025-05-26,CUST076,Machine Learning,Books,5,999.0,0.05,North,Credit Card,4745.25
+ORD0072,2025-01-07,CUST046,Storage Box,Home,1,899.0,0.0,Central,Credit Card,899.0
+ORD0073,2025-01-05,CUST029,Keyboard,Electronics,3,1299.0,0.1,Central,Debit Card,3507.3
+ORD0074,2025-11-23,CUST089,Python Basics,Books,4,499.0,0.0,Central,Net Banking,1996.0
+ORD0075,2025-12-30,CUST054,Shampoo,Beauty,4,549.0,0.0,East,Credit Card,2196.0
+ORD0076,2025-08-30,CUST092,Coffee Maker,Home,3,3499.0,0.05,South,Net Banking,9972.15
+ORD0077,2025-01-01,CUST003,Perfume,Beauty,5,1599.0,0.15,Central,Net Banking,6795.75
+ORD0078,2025-11-08,CUST033,Bluetooth Speaker,Electronics,4,2499.0,0.05,Central,Credit Card,9496.199999999999
+ORD0079,2025-05-29,CUST080,Face Wash,Beauty,5,399.0,0.0,Central,Debit Card,1995.0
+ORD0080,2025-01-20,CUST057,Face Wash,Beauty,4,399.0,0.1,South,UPI,1436.4
+ORD0081,2025-09-16,CUST016,Keyboard,Electronics,1,1299.0,0.1,North,Debit Card,1169.1000000000001
+ORD0082,2025-01-08,CUST092,Shampoo,Beauty,4,549.0,0.0,West,Credit Card,2196.0
+ORD0083,2025-12-23,CUST041,Storage Box,Home,2,899.0,0.05,West,Debit Card,1708.1
+ORD0084,2025-08-08,CUST029,Wireless Mouse,Electronics,1,799.0,0.05,Central,Debit Card,759.05
+ORD0085,2025-07-16,CUST047,Data Science Guide,Books,2,799.0,0.05,North,Credit Card,1518.1
+ORD0086,2025-01-05,CUST033,Storage Box,Home,2,899.0,0.1,North,Credit Card,1618.2
+ORD0087,2025-08-05,CUST086,Bluetooth Speaker,Electronics,5,2499.0,0.1,East,Debit Card,11245.5
+ORD0088,2025-04-09,CUST001,Wireless Mouse,Electronics,1,799.0,0.05,Central,Net Banking,759.05
+ORD0089,2025-01-23,CUST053,Wireless Mouse,Electronics,5,799.0,0.2,Central,Credit Card,3196.0
+ORD0090,2025-01-01,CUST051,Coffee Maker,Home,1,3499.0,0.0,Central,Cash on Delivery,3499.0
+ORD0091,2025-10-15,CUST034,Shampoo,Beauty,1,549.0,0.1,West,Credit Card,494.1
+ORD0092,2025-09-25,CUST065,Desk Lamp,Home,3,1499.0,0.1,West,Cash on Delivery,4047.3
+ORD0093,2025-10-30,CUST023,T-Shirt,Fashion,1,599.0,0.0,Central,Cash on Delivery,599.0
+ORD0094,2025-07-11,CUST098,Coffee Maker,Home,3,3499.0,0.2,South,Credit Card,8397.6
+ORD0095,2025-11-04,CUST038,Desk Lamp,Home,3,1499.0,0.0,North,Net Banking,4497.0
+ORD0096,2025-05-18,CUST056,Coffee Maker,Home,1,3499.0,0.2,North,Credit Card,2799.2000000000003
+ORD0097,2025-02-03,CUST006,USB-C Hub,Electronics,4,1799.0,0.05,Central,Credit Card,6836.2
+ORD0098,2025-04-21,CUST023,Data Science Guide,Books,3,799.0,0.1,East,Net Banking,2157.3
+ORD0099,2025-07-14,CUST027,Perfume,Beauty,1,1599.0,0.15,Central,Credit Card,1359.1499999999999
+ORD0100,2025-01-05,CUST082,Data Science Guide,Books,3,799.0,0.0,West,Credit Card,2397.0
+ORD0101,2025-05-13,CUST012,Data Science Guide,Books,5,799.0,0.1,South,Credit Card,3595.5
+ORD0102,2025-03-14,CUST026,Keyboard,Electronics,2,1299.0,0.1,North,UPI,2338.2000000000003
+ORD0103,2025-10-19,CUST001,Backpack,Fashion,5,1299.0,0.0,North,Debit Card,6495.0
+ORD0104,2025-03-19,CUST088,Statistics Book,Books,2,699.0,0.15,South,Cash on Delivery,1188.3
+ORD0105,2025-01-07,CUST003,Desk Lamp,Home,3,1499.0,0.05,East,Net Banking,4272.15
+ORD0106,2025-01-15,CUST064,Data Science Guide,Books,2,799.0,0.05,North,Cash on Delivery,1518.1
+ORD0107,2025-03-27,CUST090,Shampoo,Beauty,1,549.0,0.15,West,UPI,466.65
+ORD0108,2025-03-08,CUST018,Wireless Mouse,Electronics,4,799.0,0.05,West,Credit Card,3036.2
+ORD0109,2025-04-11,CUST006,USB-C Hub,Electronics,3,1799.0,0.05,West,Credit Card,5127.15
+ORD0110,2025-08-17,CUST033,Coffee Maker,Home,3,3499.0,0.2,Central,Cash on Delivery,8397.6
+ORD0111,2025-12-16,CUST095,Shampoo,Beauty,3,549.0,0.0,North,Debit Card,1647.0
+ORD0112,2025-08-11,CUST006,Backpack,Fashion,5,1299.0,0.2,South,Net Banking,5196.0
+ORD0113,2025-04-28,CUST094,Moisturizer,Beauty,4,699.0,0.0,East,UPI,2796.0
+ORD0114,2025-06-22,CUST044,Coffee Maker,Home,3,3499.0,0.1,Central,Credit Card,9447.300000000001
+ORD0115,2025-04-23,CUST012,Moisturizer,Beauty,4,699.0,0.1,North,Credit Card,2516.4
+ORD0116,2025-11-29,CUST003,Data Science Guide,Books,3,799.0,0.2,North,Credit Card,1917.6000000000001
+ORD0117,2025-01-13,CUST040,Water Bottle,Home,2,699.0,0.2,South,Net Banking,1118.4
+ORD0118,2025-09-22,CUST075,Bluetooth Speaker,Electronics,5,2499.0,0.0,East,UPI,12495.0
+ORD0119,2025-11-30,CUST075,Data Science Guide,Books,4,799.0,0.2,North,Credit Card,2556.8
+ORD0120,2025-11-16,CUST022,Moisturizer,Beauty,3,699.0,0.2,West,Cash on Delivery,1677.6000000000001
+ORD0121,2025-10-13,CUST035,T-Shirt,Fashion,5,599.0,0.0,Central,Cash on Delivery,2995.0
+ORD0122,2025-03-03,CUST004,Machine Learning,Books,3,999.0,0.1,North,Cash on Delivery,2697.3
+ORD0123,2025-10-22,CUST014,Water Bottle,Home,2,699.0,0.15,East,Cash on Delivery,1188.3
+ORD0124,2025-08-13,CUST066,Bluetooth Speaker,Electronics,1,2499.0,0.0,Central,Debit Card,2499.0
+ORD0125,2025-02-11,CUST064,Jeans,Fashion,3,1499.0,0.1,West,Cash on Delivery,4047.3
+ORD0126,2025-02-07,CUST057,USB-C Hub,Electronics,3,1799.0,0.15,North,Cash on Delivery,4587.45
+ORD0127,2025-03-27,CUST066,Machine Learning,Books,1,999.0,0.0,South,Cash on Delivery,999.0
+ORD0128,2025-06-08,CUST047,Jeans,Fashion,1,1499.0,0.0,West,Cash on Delivery,1499.0
+ORD0129,2025-06-06,CUST047,Perfume,Beauty,5,1599.0,0.1,West,Net Banking,7195.5
+ORD0130,2025-08-31,CUST036,Data Science Guide,Books,3,799.0,0.1,West,Credit Card,2157.3
+ORD0131,2025-09-11,CUST074,Backpack,Fashion,5,1299.0,0.15,South,Debit Card,5520.75
+ORD0132,2025-07-29,CUST089,Shampoo,Beauty,5,549.0,0.0,North,Net Banking,2745.0
+ORD0133,2025-11-20,CUST005,Sneakers,Fashion,4,2499.0,0.1,Central,Credit Card,8996.4
+ORD0134,2025-02-20,CUST029,USB-C Hub,Electronics,2,1799.0,0.0,North,Debit Card,3598.0
+ORD0135,2025-04-20,CUST036,Keyboard,Electronics,5,1299.0,0.2,North,UPI,5196.0
+ORD0136,2025-11-05,CUST009,Sneakers,Fashion,5,2499.0,0.05,South,Net Banking,11870.25
+ORD0137,2025-03-04,CUST025,Wireless Mouse,Electronics,2,799.0,0.05,South,Debit Card,1518.1
+ORD0138,2025-12-13,CUST017,Coffee Maker,Home,2,3499.0,0.05,East,Debit Card,6648.099999999999
+ORD0139,2025-01-25,CUST071,Moisturizer,Beauty,3,699.0,0.0,West,Cash on Delivery,2097.0
+ORD0140,2025-05-30,CUST026,Wireless Mouse,Electronics,5,799.0,0.1,West,Credit Card,3595.5
+ORD0141,2025-06-26,CUST020,Python Basics,Books,1,499.0,0.2,West,Cash on Delivery,399.20000000000005
+ORD0142,2025-08-03,CUST051,Bluetooth Speaker,Electronics,1,2499.0,0.05,East,Debit Card,2374.0499999999997
+ORD0143,2025-05-24,CUST040,Python Basics,Books,5,499.0,0.05,East,Credit Card,2370.25
+ORD0144,2025-07-13,CUST092,Keyboard,Electronics,3,1299.0,0.05,North,Credit Card,3702.1499999999996
+ORD0145,2025-02-24,CUST003,Backpack,Fashion,4,1299.0,0.0,South,Credit Card,5196.0
+ORD0146,2025-03-28,CUST055,Jeans,Fashion,2,1499.0,0.05,West,Credit Card,2848.1
+ORD0147,2025-11-19,CUST088,Statistics Book,Books,1,699.0,0.1,East,Cash on Delivery,629.1
+ORD0148,2025-04-07,CUST092,Bluetooth Speaker,Electronics,5,2499.0,0.0,South,Debit Card,12495.0
+ORD0149,2025-07-01,CUST085,Sneakers,Fashion,4,2499.0,0.2,South,Credit Card,7996.8
+ORD0150,2025-02-05,CUST029,Bluetooth Speaker,Electronics,5,2499.0,0.0,West,Credit Card,12495.0
+ORD0151,2025-08-22,CUST002,Water Bottle,Home,5,699.0,0.05,East,Net Banking,3320.25
+ORD0152,2025-08-10,CUST009,Face Wash,Beauty,5,399.0,0.05,South,Cash on Delivery,1895.25
+ORD0153,2025-12-30,CUST024,Moisturizer,Beauty,4,699.0,0.2,North,Credit Card,2236.8
+ORD0154,2025-07-28,CUST014,Jeans,Fashion,1,1499.0,0.05,North,Credit Card,1424.05
+ORD0155,2025-08-23,CUST004,Python Basics,Books,1,499.0,0.0,South,Credit Card,499.0
+ORD0156,2025-03-16,CUST070,Python Basics,Books,2,499.0,0.05,South,Cash on Delivery,948.0999999999999
+ORD0157,2025-01-17,CUST037,Storage Box,Home,1,899.0,0.05,North,Credit Card,854.05
+ORD0158,2025-01-27,CUST057,Moisturizer,Beauty,5,699.0,0.0,East,Credit Card,3495.0
+ORD0159,2025-06-22,CUST017,Face Wash,Beauty,1,399.0,0.05,South,Cash on Delivery,379.04999999999995
+ORD0160,2025-05-10,CUST054,Shampoo,Beauty,2,549.0,0.05,East,UPI,1043.1
+ORD0161,2025-01-29,CUST021,T-Shirt,Fashion,4,599.0,0.15,East,Debit Card,2036.6
+ORD0162,2025-08-15,CUST054,Face Wash,Beauty,3,399.0,0.05,South,Cash on Delivery,1137.1499999999999
+ORD0163,2025-08-15,CUST081,Keyboard,Electronics,4,1299.0,0.1,East,Cash on Delivery,4676.400000000001
+ORD0164,2025-03-14,CUST073,Jeans,Fashion,1,1499.0,0.15,North,UPI,1274.1499999999999
+ORD0165,2025-01-25,CUST039,Wireless Mouse,Electronics,3,799.0,0.1,East,Debit Card,2157.3
+ORD0166,2025-04-12,CUST098,Water Bottle,Home,4,699.0,0.1,West,Debit Card,2516.4
+ORD0167,2025-01-17,CUST074,Statistics Book,Books,3,699.0,0.2,North,UPI,1677.6000000000001
+ORD0168,2025-05-29,CUST081,Shampoo,Beauty,3,549.0,0.1,Central,UPI,1482.3
+ORD0169,2025-12-31,CUST026,Water Bottle,Home,4,699.0,0.0,South,UPI,2796.0
+ORD0170,2025-12-01,CUST007,Water Bottle,Home,2,699.0,0.05,North,Debit Card,1328.1
+ORD0171,2025-04-13,CUST017,Coffee Maker,Home,5,3499.0,0.05,East,Net Banking,16620.25
+ORD0172,2025-06-20,CUST040,Face Wash,Beauty,2,399.0,0.15,South,Net Banking,678.3
+ORD0173,2025-07-29,CUST033,USB-C Hub,Electronics,5,1799.0,0.1,Central,Credit Card,8095.5
+ORD0174,2025-06-19,CUST034,Shampoo,Beauty,2,549.0,0.0,East,Cash on Delivery,1098.0
+ORD0175,2025-10-29,CUST029,Data Science Guide,Books,3,799.0,0.0,North,Cash on Delivery,2397.0
+ORD0176,2025-08-24,CUST010,Statistics Book,Books,1,699.0,0.1,North,Net Banking,629.1
+ORD0177,2025-05-22,CUST030,Python Basics,Books,1,499.0,0.0,South,Net Banking,499.0
+ORD0178,2025-07-12,CUST053,Desk Lamp,Home,5,1499.0,0.0,North,UPI,7495.0
+ORD0179,2025-10-20,CUST061,USB-C Hub,Electronics,4,1799.0,0.0,Central,Debit Card,7196.0
+ORD0180,2025-08-14,CUST025,Shampoo,Beauty,3,549.0,0.2,West,Net Banking,1317.6000000000001
+ORD0181,2025-11-06,CUST074,Sneakers,Fashion,4,2499.0,0.15,East,Credit Card,8496.6
+ORD0182,2025-09-16,CUST006,Keyboard,Electronics,1,1299.0,0.0,Central,Cash on Delivery,1299.0
+ORD0183,2025-08-29,CUST061,Wireless Mouse,Electronics,3,799.0,0.1,East,Credit Card,2157.3
+ORD0184,2025-08-04,CUST003,Jeans,Fashion,2,1499.0,0.1,East,Cash on Delivery,2698.2000000000003
+ORD0185,2025-12-23,CUST098,Machine Learning,Books,1,999.0,0.1,East,UPI,899.1
+ORD0186,2025-07-14,CUST025,Backpack,Fashion,4,1299.0,0.05,South,Net Banking,4936.2
+ORD0187,2025-08-14,CUST088,Water Bottle,Home,1,699.0,0.1,West,Debit Card,629.1
+ORD0188,2025-02-06,CUST060,Statistics Book,Books,2,699.0,0.1,Central,Net Banking,1258.2
+ORD0189,2025-10-28,CUST096,Python Basics,Books,1,499.0,0.0,Central,Debit Card,499.0
+ORD0190,2025-08-25,CUST033,Coffee Maker,Home,2,3499.0,0.1,East,Net Banking,6298.2
+ORD0191,2025-09-26,CUST045,Bluetooth Speaker,Electronics,3,2499.0,0.0,North,Cash on Delivery,7497.0
+ORD0192,2025-01-07,CUST005,Storage Box,Home,3,899.0,0.15,East,Cash on Delivery,2292.45
+ORD0193,2025-06-09,CUST053,Water Bottle,Home,3,699.0,0.15,South,Net Banking,1782.45
+ORD0194,2025-10-22,CUST066,Desk Lamp,Home,5,1499.0,0.1,Central,Debit Card,6745.5
+ORD0195,2025-12-20,CUST060,Wireless Mouse,Electronics,1,799.0,0.0,Central,Debit Card,799.0
+ORD0196,2025-11-15,CUST028,Jeans,Fashion,2,1499.0,0.05,West,Cash on Delivery,2848.1
+ORD0197,2025-08-30,CUST068,Data Science Guide,Books,4,799.0,0.0,East,UPI,3196.0
+ORD0198,2025-07-12,CUST022,Shampoo,Beauty,1,549.0,0.1,South,Debit Card,494.1
+ORD0199,2025-09-08,CUST099,Desk Lamp,Home,5,1499.0,0.05,West,Cash on Delivery,7120.25
+ORD0200,2025-05-14,CUST079,Moisturizer,Beauty,5,699.0,0.0,East,Debit Card,3495.0
+ORD0201,2025-08-14,CUST029,Coffee Maker,Home,2,3499.0,0.0,West,UPI,6998.0
+ORD0202,2025-10-12,CUST029,T-Shirt,Fashion,1,599.0,0.0,East,Net Banking,599.0
+ORD0203,2025-01-27,CUST067,Coffee Maker,Home,4,3499.0,0.1,North,Net Banking,12596.4
+ORD0204,2025-12-23,CUST059,Face Wash,Beauty,5,399.0,0.2,West,Debit Card,1596.0
+ORD0205,2025-02-27,CUST038,Wireless Mouse,Electronics,3,799.0,0.05,South,Cash on Delivery,2277.15
+ORD0206,2025-01-12,CUST018,Sneakers,Fashion,1,2499.0,0.1,West,Debit Card,2249.1
+ORD0207,2025-11-05,CUST008,Shampoo,Beauty,1,549.0,0.15,East,Credit Card,466.65
+ORD0208,2025-06-30,CUST024,Moisturizer,Beauty,3,699.0,0.15,West,Credit Card,1782.45
+ORD0209,2025-09-30,CUST084,Sneakers,Fashion,1,2499.0,0.0,West,UPI,2499.0
+ORD0210,2025-12-10,CUST072,USB-C Hub,Electronics,5,1799.0,0.05,East,Cash on Delivery,8545.25
+ORD0211,2025-11-16,CUST082,USB-C Hub,Electronics,5,1799.0,0.0,East,Cash on Delivery,8995.0
+ORD0212,2025-09-24,CUST086,Wireless Mouse,Electronics,4,799.0,0.15,East,UPI,2716.6
+ORD0213,2025-03-21,CUST054,USB-C Hub,Electronics,1,1799.0,0.1,West,Net Banking,1619.1000000000001
+ORD0214,2025-01-02,CUST097,Keyboard,Electronics,2,1299.0,0.05,North,UPI,2468.1
+ORD0215,2025-06-03,CUST022,Data Science Guide,Books,1,799.0,0.15,South,Credit Card,679.15
+ORD0216,2025-11-01,CUST075,Desk Lamp,Home,2,1499.0,0.0,Central,Debit Card,2998.0
+ORD0217,2025-12-25,CUST095,Jeans,Fashion,1,1499.0,0.2,North,Credit Card,1199.2
+ORD0218,2025-03-25,CUST062,Perfume,Beauty,2,1599.0,0.1,East,Debit Card,2878.2000000000003
+ORD0219,2025-01-22,CUST026,Perfume,Beauty,4,1599.0,0.1,East,UPI,5756.400000000001
+ORD0220,2025-01-12,CUST087,Shampoo,Beauty,3,549.0,0.1,West,Cash on Delivery,1482.3
+ORD0221,2025-02-24,CUST100,Wireless Mouse,Electronics,3,799.0,0.0,Central,Cash on Delivery,2397.0
+ORD0222,2025-07-30,CUST022,Machine Learning,Books,3,999.0,0.0,Central,UPI,2997.0
+ORD0223,2025-02-04,CUST061,Backpack,Fashion,4,1299.0,0.0,Central,UPI,5196.0
+ORD0224,2025-01-24,CUST020,Face Wash,Beauty,5,399.0,0.1,Central,Net Banking,1795.5
+ORD0225,2025-02-19,CUST049,Perfume,Beauty,4,1599.0,0.1,East,UPI,5756.400000000001
+ORD0226,2025-08-16,CUST066,Shampoo,Beauty,5,549.0,0.05,South,Net Banking,2607.75
+ORD0227,2025-05-05,CUST012,Coffee Maker,Home,3,3499.0,0.05,East,Cash on Delivery,9972.15
+ORD0228,2025-12-21,CUST026,Storage Box,Home,5,899.0,0.1,West,Credit Card,4045.5
+ORD0229,2025-11-21,CUST038,Shampoo,Beauty,2,549.0,0.0,Central,UPI,1098.0
+ORD0230,2025-08-19,CUST070,Face Wash,Beauty,1,399.0,0.1,North,Debit Card,359.1
+ORD0231,2025-08-17,CUST005,Wireless Mouse,Electronics,4,799.0,0.05,North,Net Banking,3036.2
+ORD0232,2025-04-28,CUST014,Face Wash,Beauty,3,399.0,0.15,South,Cash on Delivery,1017.4499999999999
+ORD0233,2025-10-03,CUST008,Storage Box,Home,1,899.0,0.05,East,Net Banking,854.05
+ORD0234,2025-04-17,CUST037,Wireless Mouse,Electronics,4,799.0,0.05,Central,Net Banking,3036.2
+ORD0235,2025-11-08,CUST028,Python Basics,Books,1,499.0,0.1,West,Debit Card,449.1
+ORD0236,2025-10-20,CUST020,Statistics Book,Books,2,699.0,0.2,South,Cash on Delivery,1118.4
+ORD0237,2025-09-02,CUST059,Bluetooth Speaker,Electronics,3,2499.0,0.05,Central,UPI,7122.15
+ORD0238,2025-06-30,CUST088,Bluetooth Speaker,Electronics,4,2499.0,0.0,East,Debit Card,9996.0
+ORD0239,2025-02-08,CUST095,Water Bottle,Home,2,699.0,0.2,East,Credit Card,1118.4
+ORD0240,2025-05-06,CUST045,Shampoo,Beauty,4,549.0,0.0,West,Credit Card,2196.0
+ORD0241,2025-09-21,CUST029,Storage Box,Home,2,899.0,0.0,Central,Credit Card,1798.0
+ORD0242,2025-04-24,CUST082,Bluetooth Speaker,Electronics,2,2499.0,0.05,North,Credit Card,4748.099999999999
+ORD0243,2025-10-29,CUST068,USB-C Hub,Electronics,3,1799.0,0.2,North,UPI,4317.6
+ORD0244,2025-12-27,CUST090,Backpack,Fashion,5,1299.0,0.1,West,Credit Card,5845.5
+ORD0245,2025-03-30,CUST048,Storage Box,Home,1,899.0,0.15,Central,UPI,764.15
+ORD0246,2025-04-08,CUST004,Python Basics,Books,1,499.0,0.0,East,Credit Card,499.0
+ORD0247,2025-12-31,CUST075,Water Bottle,Home,1,699.0,0.05,North,UPI,664.05
+ORD0248,2025-07-18,CUST015,Machine Learning,Books,1,999.0,0.05,Central,Debit Card,949.05
+ORD0249,2025-08-12,CUST035,Face Wash,Beauty,1,399.0,0.1,West,Credit Card,359.1
+ORD0250,2025-09-22,CUST003,Backpack,Fashion,2,1299.0,0.15,Central,Credit Card,2208.2999999999997
